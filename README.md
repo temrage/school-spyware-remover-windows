@@ -32,7 +32,7 @@ iwr https://raw.githubusercontent.com/temrage/school-spyware-remover-windows/ref
 
 ### Method 2 - Manual (Windows 7 and later)
 
-1.   Download this (bat script) [https://github.com/temrage/school-spyware-remover-windows/releases/download/release/Temrage_Uninstall_Win.bat]
+1.   Download this [bat script] (https://github.com/temrage/school-spyware-remover-windows/releases/download/release/Temrage_Uninstall_Win.bat)
 2.   Run the file named `Temrage_Uninstall_Win.bat`
 
 
