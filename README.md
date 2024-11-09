@@ -5,10 +5,10 @@
     <h1 align="center">SCHOOL SPYWARE REMOVER WINDOWS</h1>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/temrage/uninstall_school_spyware?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/temrage/uninstall_school_spyware?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/temrage/uninstall_school_spyware?style=flat&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/temrage/uninstall_school_spyware?style=flat&color=0080ff" alt="repo-language-count">
+	<img src="https://img.shields.io/github/license/temrage/school-spyware-remover-windows?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/last-commit/temrage/school-spyware-remover-windows?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/temrage/school-spyware-remover-windows?style=flat&color=0080ff" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/temrage/school-spyware-remover-windows?style=flat&color=0080ff" alt="repo-language-count">
 
 This script is for Windows 10/11 users. It will remove all traces of school-installed spyware like Securly and MDM. It also gives you an option to download and install the school's SSL certificate so you can connect to the network without needing to visit the IT department or reinstall the spyware. Just keep in mind that this script won’t connect you to the network automatically—you’ll still need to authenticate the network yourself with your username and password later. It simply prepares your device so you won’t see SSL warnings, as the school does SSL inspection. If you don’t plan to use the school network, you may skip this step.
 
