@@ -18,6 +18,10 @@ This script is for Windows 10/11 users. It will remove all traces of school-inst
 
 [Learn more about this project](https://github.com/temrage/uninstall_school_spyware/blob/main/about.md)
 
+### 🚨 Stop using the school browser!
+1. **Google Chrome users:** Sign out of your school chrome profile! Syncing the browser profile will force-install the Securly extension and make Chrome "managed by your organization," allowing schools to monitor your browsing history. 
+   - For better privacy, consider switching to open-source browsers like **Brave**, **Firefox**, or **LibreWolf** or use chrome without syncing.
+
 ## Download / How to use it?
 
 ### Method 1 - PowerShell (Windows 8 and later) 🏆
@@ -35,10 +39,6 @@ iwr https://raw.githubusercontent.com/temrage/school-spyware-remover-windows/ref
 1.   Download this [bat script](https://github.com/temrage/school-spyware-remover-windows/releases/download/release/Temrage_Uninstall_Win.bat)
 2.   Run the file named `Temrage_Uninstall_Win.bat`
 
-
-### 🚨 Stop using school profile!
-1. **Google Chrome users:** Sign out of your school chrome profile! Syncing the browser profile will force-install the Securly extension and make Chrome "managed by your organization," allowing schools to monitor your browsing history. 
-   - For better privacy, consider switching to open-source browsers like **Brave**, **Firefox**, or **LibreWolf** or use chrome without syncing.
 
 
 ## ⚠️ Disclaimers
